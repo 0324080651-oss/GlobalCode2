@@ -1,0 +1,14 @@
+POST http://127.0.0.1:5000/index/Jake
+
+
+###
+
+GET http://127.0.0.1:5000/index/Alice
+
+
+###
+PUT http://127.0.0.1:5000/index/Ana
+
+
+
+
